@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper-container {
+    max-width: 1220px;
+    width: 100%;
+    padding: 0px 20px;
+    margin: 20px auto;
+}
+
+.wrapper-list {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.wrapper-item {
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(137, 137, 137);
+}
+
+.wrapper-title {
+    color: rgb(0, 0, 0);    
+}
